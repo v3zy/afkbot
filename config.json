@@ -1,0 +1,9 @@
+﻿{
+  "host": "olds-trains.tun.ply.gg",
+  "port": 25565,
+  "username": "Atena_AFK",
+  "version": "1.19.4",
+  "password": "atenapro123",
+  "jump_interval_seconds": 20,
+  "auto_reconnect_seconds": 10
+}

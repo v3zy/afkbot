@@ -1,0 +1,12 @@
+{
+  "name": "atena-boxpvp-afk-bot",
+  "version": "1.0.0",
+  "description": "Atena BoxPvP 7/24 AFK Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.25.0"
+  }
+}
